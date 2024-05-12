@@ -1,6 +1,7 @@
 
 <h1 align="center">Welcome to Netflix Analytics PowerBI Repository 👋</h1>
 <h2 align="left">📶 Dashboard</h2>
+
 ![logo](https://github.com/Laoode/Netflix_Analytics-PowerBI/blob/main/Banner.png)
 
 
@@ -38,6 +39,7 @@
 
 <h2 align="left">📺 Overview</h2>
 <p>Overall, this dashboard is designed to provide a comprehensive overview of Netflix's film and TV content, including rating information, vote counts, geographic distribution, and title-specific details. The visually appealing and interactive interface helps users explore the data easily and find relevant information.</p>
+
 https://github.com/Laoode/Netflix_Analytics-PowerBI/assets/119650090/e0016035-c2ab-4768-85bf-5f321671e03b
 
 <h2 align="left">📚 Documentation</h2>
