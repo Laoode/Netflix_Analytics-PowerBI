@@ -73,5 +73,5 @@ https://github.com/Laoode/Netflix_Analytics-PowerBI/assets/119650090/e0016035-c2
 
 <p>Have a great day!✨</p>
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
 
